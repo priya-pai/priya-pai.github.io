@@ -6,18 +6,28 @@ p{
 .title{
 	text-align:center;
 }
-
+.Bukowski{
+	margin:5px;
+	text-align:center;
+}
 .pic1{ 
 	margin: 5px;
 	text-align: center;
-
 }
 .pic2{ 
 	margin: 5px;
 	text-align: center;
-
+}
+.Salingerquote{
+	color:white;
+	text-align:center;
+}
+.Salingerimage{
+	margin:5px;
+	text-align:center;
 }
 .quote1 {
+	color:white;
 	text-align:center;
 }
 .quote2 {
