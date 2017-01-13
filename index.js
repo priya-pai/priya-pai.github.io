@@ -1,4 +1,4 @@
 console.log($('p'));
-$('#mybutton').on('click',function() {$('p').append("Happy 2017!");
+$('#mybutton').on('click',function() {$('p').append("Keep on reading");
 });
 
