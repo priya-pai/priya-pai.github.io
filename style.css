@@ -1,0 +1,38 @@
+p{
+	color: rgb(0,0,0);
+	font-size: 100%;
+}
+
+.title{
+	text-align:center;
+}
+
+.pic1{ 
+	margin: 5px;
+	text-align: center;
+
+}
+.pic2{ 
+	margin: 5px;
+	text-align: center;
+
+}
+
+.quote1 {
+	text-align:center;
+}
+.quote2 {
+	color:white;
+	text-align:center;
+}
+#mybutton { 
+	text-align:center;
+	height: 100px;
+	width: 100px; 
+}
+div {
+	background-color: rgb(88, 116,152);
+}
+
+
+
