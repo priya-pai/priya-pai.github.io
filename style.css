@@ -1,47 +1,52 @@
-p{
-	color: rgb(0,0,0);
-	font-size: 100%;
+#headshot{
+	height:300px;
+	width:220px;
+    float:left;
+    margin-right:20px;
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.center{
+	 text-align: center;
+}
+body{
+	background-color:#A53F35;
+}
+.icons{
+    margin-right:8px;
+    height:25px;
+    width:25px;
+}
+#linkedin{
+    margin-left:5px;
+}
+#head{
+    margin-bottom:50px;
+}
+#headText{
+    padding-top:20px;
+
+}
+#headdesc{
+    margin-top:-15px;
+}
+#main{
+	font-family: 'Lato', sans-serif;
+	background-color: #fbfbfb;
+    margin: auto;
+    width: 50%;
+    max-width: 850px;
+    min-width: 250px;
+    margin-top:20px;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    padding-left:120px;
+    padding-right:120px;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1.4;
 }
 
-.title{
-	text-align:center;
-}
-.Bukowski{
-	margin:5px;
-	text-align:center;
-}
-.pic1{ 
-	margin: 5px;
-	text-align: center;
-}
-.pic2{ 
-	margin: 5px;
-	text-align: center;
-}
-.Salingerquote{
-	color:white;
-	text-align:center;
-}
-.Salingerimage{
-	margin:5px;
-	text-align:center;
-}
-.quote1 {
-	color:white;
-	text-align:center;
-}
-.quote2 {
-	color:white;
-	text-align:center;
-}
-#mybutton { 
-	text-align:center;
-	height: 100px;
-	width: 100px; 
-}
-div {
-	background-color: rgb(88, 116,152);
-}
 
 
 
